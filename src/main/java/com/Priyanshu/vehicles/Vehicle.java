@@ -1,4 +1,4 @@
-package com.Priyanshu.Testing;
+package com.Priyanshu.vehicles;
 
 import org.springframework.stereotype.Component;
 
